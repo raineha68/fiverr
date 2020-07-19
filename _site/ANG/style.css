@@ -39,7 +39,7 @@ body {
 
 p {
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.75;
 }
 
 p.large {
@@ -349,14 +349,6 @@ fieldset[disabled] .fa1.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
-    p {
-    font-size: 18px;
-    line-height: 1.5;
-}
-
-p.large {
-    font-size: 20px;
-}
 }
 
 
@@ -418,14 +410,6 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
-    p {
-    font-size: 18px;
-    line-height: 1.5;
-}
-
-p.large {
-    font-size: 20px;
-}
 }
 
 section {

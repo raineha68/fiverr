@@ -5,8 +5,8 @@
     <description>Kids in Japan say to other kids-ISSHO NI ASOBO, which simply means –‘Let’s play’.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 19 Jul 2020 02:38:31 +0530</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2020 02:38:31 +0530</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2020 00:31:45 +0530</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:31:45 +0530</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -46,21 +46,6 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/caregiver/web%20development/2014/07/18/project-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/caregiver/web%20development/2014/07/18/project-1.html</guid>
-        
-        
-        <category>caregiver</category>
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Dreams</title>
-        <description>
-</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/18/project-1.html</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1.html</guid>
         
@@ -79,21 +64,6 @@
         
         
         <category>ANG</category>
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Escape</title>
-        <description>
-</description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/caregiver/web%20development/2014/07/17/project-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/caregiver/web%20development/2014/07/17/project-2.html</guid>
-        
-        
-        <category>caregiver</category>
         
         <category>Web Development</category>
         
@@ -132,21 +102,6 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/caregiver/web%20development/2014/07/16/project-3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/caregiver/web%20development/2014/07/16/project-3.html</guid>
-        
-        
-        <category>caregiver</category>
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Golden</title>
-        <description>
-</description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/web%20development/2014/07/16/project-3.html</link>
         <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3.html</guid>
         
@@ -162,6 +117,47 @@
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/ang/web%20development/2014/07/16/project-3.html</link>
         <guid isPermaLink="true">http://localhost:4000/ang/web%20development/2014/07/16/project-3.html</guid>
+        
+        
+        <category>ANG</category>
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/15/project-4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Round Icons</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/15/project-6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/ang/web%20development/2014/07/15/project-4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ang/web%20development/2014/07/15/project-4.html</guid>
         
         
         <category>ANG</category>
