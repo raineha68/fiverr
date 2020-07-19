@@ -349,6 +349,14 @@ fieldset[disabled] .fa1.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+    p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+p.large {
+    font-size: 20px;
+}
 }
 
 
